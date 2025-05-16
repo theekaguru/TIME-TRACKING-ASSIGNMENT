@@ -82,6 +82,7 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
+}
 
 .category {
   font-size: 0.9rem;
@@ -101,11 +102,11 @@ body {
 
 /* Unique Background Colors */
 .Work-Time {
-  background-color: #ff8b64;
+  background-color: #835545;
 }
 
 .Play-Time {
-  background-color: #56c2e6;
+  background-color: #62acc8;
 }
 
 .study-Time {
@@ -113,15 +114,15 @@ body {
 }
 
 .Exercise-time {
-  background-color: #4acf81;
+  background-color: #397050;
 }
 
 .social-Time {
-  background-color: #7536d3;
+  background-color: #381c63;
 }
 
 .selfcare-Time {
-  background-color: #f1c65b;
+  background-color: #72633d;
 }
 
 /* Responsive Design */
